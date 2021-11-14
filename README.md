@@ -15,7 +15,7 @@ for easy adjustment and reading.
 https://zaclark369.github.io/Horiseon-Accessability/
 
 ## Screenshot
-   ![screenshot of the website](Develop\assets\images\screen-capture.png)
+   ![screenshot of the website](assets\images\screen-capture.png)
   
 
 ## Contribution
