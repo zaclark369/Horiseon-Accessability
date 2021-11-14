@@ -1,14 +1,11 @@
 # Horiseon-Accessability
 
 ## Purpose
-A website that offers SEO training services.
+A website that offers SEO training services and meets
+accessibility standards. The css was reworked to make it 
+more efficient and the HTML was built using semantic elements 
+for easy adjustment and reading.
 
-## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Built with
 * HTML
@@ -17,10 +14,9 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Website
 https://zaclark369.github.io/Horiseon-Accessability/
 
-## Usage
-   ```md
-   ![screenshot of the website](assets/images/screen-capture.png)
-   ```
+## Screenshot
+   ![screenshot of the website](Develop\assets\images\screen-capture.png)
+  
 
 ## Contribution
 Made with ❤️ by Zac Clark
