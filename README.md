@@ -15,8 +15,9 @@ for easy adjustment and reading.
 https://zaclark369.github.io/Horiseon-Accessability/
 
 ## Screenshot
+The websites landing page.
    ![screenshot of the website](assets/images/screen-capture.png)
-  
+
 
 ## Contribution
 Made with ❤️ by Zac Clark
